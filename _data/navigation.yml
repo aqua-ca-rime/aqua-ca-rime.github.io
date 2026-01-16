@@ -1,0 +1,28 @@
+- title: Accueil
+  url: "/"
+  side: left
+
+- title: Interventions passées
+  url: "/interventions-passees/"
+  side: left
+
+- title: Ressources
+  url: "/ressources/"
+  side: left
+  dropdown:
+  - title: "Matériel scientifique"
+    url: "/ressources/materiel-scientifique/"
+  - title: "Galerie d'images"
+    url: "/ressources/galerie-dimages/"
+
+- title: Anecdotes
+  url: "/anecdotes/"
+  side: left
+
+- title: "Agenda"
+  url: "/agenda/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
