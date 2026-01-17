@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "jekyll", "= 4.4.1"
+gem "jekyll-sass-converter", "= 3.1.0"
+gem "sass-embedded", "~> 1.75"
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
