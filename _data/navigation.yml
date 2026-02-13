@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: Interventions passées
-  url: "/interventions-passees/"
+- title: Activités
+  url: "/activites/"
   side: left
 
 - title: Ressources

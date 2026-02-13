@@ -1,10 +1,9 @@
 ---
-layout: blog
-show_meta: false
+layout: page
 title: "Anecdotes"
-subheadline: "Liste d'anecdotes en lien avec les objets géoscientifiques."
+teaser: "Liste d'anecdotes en lien avec les objets géoscientifiques."
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header-ondes-internes.jpg"
 permalink: "/anecdotes/"
 ---
 <ul>

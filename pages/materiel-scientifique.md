@@ -1,10 +1,9 @@
 ---
-layout: blog
-show_meta: false
+layout: page
 title: "Matériel scientifique"
-subheadline: "Liste du matériel scientifique mobilisé dans le cadre de nos activités de médiation scientifique."
+teaser: "Liste du matériel scientifique mobilisé dans le cadre de nos activités de médiation scientifique."
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header-ondes-internes.jpg"
 permalink: "/ressources/materiel-scientifique/"
 ---
 <ul>

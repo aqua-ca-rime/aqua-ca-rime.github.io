@@ -14,7 +14,7 @@ title: 'Aqua Ça Rime'
 slogan: 'Aqua ça rime'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Aqua ça rime est une initiative de médiation scientifique axée sur les géosciences et portée par de jeunes chercheuses et chercheurs de l'Institut des Géosciences de l'Environnement de Grenoble."
+description: "Aqua ça rime est une initiative de médiation scientifique axée sur les sciences de la Terre et portée par de jeunes chercheuses et chercheurs de l'Institut des Géosciences de l'Environnement de Grenoble."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -42,7 +42,7 @@ urlimg: 'https://aqua-ca-rime.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 # Plugins
 plugins:

@@ -1,10 +1,9 @@
 ---
-layout: blog
-show_meta: false
+layout: page
 title: "Galerie d'images"
-subheadline: "Quelques photos prises lors de nos interventions !"
+teaser: "Quelques photos prises lors de nos interventions !"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header-ondes-internes.jpg"
 permalink: "/ressources/galerie-dimages/"
 ---
 <ul>

@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header-ondes-internes.jpg
 widget1:
-  title: "Widget1"
+  title: "Bar Radis"
   url: 'http://aqua-ca-rime.github.io/.../'
   image: widget-1-302x182.jpg
-  text: 'Blabla1'
+  text: '...'
 widget2:
-  title: "Widget2"
+  title: "Tribulations savantes"
   url: 'http://aqua-ca-rime.github.io/.../'
-  text: 'Blabla2'
+  text: '...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Widget3"
+  title: "Cuve à ondes internes"
   url: 'http://aqua-ca-rime.github.io/.../'
   image: widget-github-303x182.jpg
-  text: 'Blabla3'
+  text: '...'
 #
 # Use the call for action to show a button on the frontpage
 #
