@@ -9,19 +9,19 @@ header:
   image_fullwidth: header-ondes-internes.jpg
 widget1:
   title: "Bar Radis"
-  url: 'http://aqua-ca-rime.github.io/.../'
-  image: widget-1-302x182.jpg
-  text: '...'
+  url: '/bar_radis/'
+  image: bar_radis/marbre.jpg
+  text: "Vous avez toujours rêvé de manger des expériences ? C'est ce qui s'est passé au Bar Radis en avril 2025 : nous sommes intervenu·e·s pour parler océan et glaciers pendant un repas où les convives reproduisaient l'expérience dans leur assiette !"
 widget2:
   title: "Tribulations savantes"
-  url: 'http://aqua-ca-rime.github.io/.../'
-  text: '...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  url: 'tribulations_savantes'
+  image: tribulations_savantes/affiche_tribus.png
+  text: 'Que vous soyez scientifique en herbe, curieux·se, ou tout simplement perdu·e sur le campus saint Martin d’Hères le lundi 27 avril 2026, les Tribulations Savantes sont faites pour vous !'
 widget3:
-  title: "Cuve à ondes internes"
-  url: 'http://aqua-ca-rime.github.io/.../'
-  image: widget-github-303x182.jpg
-  text: '...'
+  title: "Projet Casemate"
+  url: 'projet_casemate'
+  image: projet_casemate/maquettes_finales.jpeg
+  text: "Nous avons eu la chance durant d'être invité au FabLab de la Casemate (qui est un organisme de médiation scientifique et culturelle à Grenble) pour réaliser une nouvelle maquette de médiation scientifique sur l'océanographie."
 #
 # Use the call for action to show a button on the frontpage
 #
